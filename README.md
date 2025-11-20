@@ -1,4 +1,4 @@
-<img width="1357" height="596" alt="image" src="https://github.com/user-attachments/assets/d928f5fc-a8a0-4315-a248-562704013c78" /><h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
 ```
 <h3>Name: V.Poojaa Sree</h3>
@@ -105,18 +105,7 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-
-<hr>
-<h2>Sample Input and Output</h2>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/dc06427a-d4ce-43a1-95bd-9acfaefac323)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
-
-<h2>Program:</h2>
-
+## PROGRAM:
 ```
 import time
 
@@ -278,14 +267,10 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<h2>Output:</h2>
-<img width="561" height="613" alt="499234148-d043d744-f688-4150-ac71-c8ff04eb0a56" src="https://github.com/user-attachments/assets/f538275a-9c17-454f-b245-b1401e295c54" />
 
-<img width="557" height="615" alt="499234198-d0ae10f0-ca77-4509-96d6-52506d9b9ffe" src="https://github.com/user-attachments/assets/79e989b8-843a-45e6-a2b7-3d7a82b7a891" />
-
-<img width="571" height="384" alt="499234255-d982b312-e943-4cda-a73e-f1cbcc9de2d8" src="https://github.com/user-attachments/assets/ec11a785-16bb-44c3-b656-dcee43f47869" />
-
-<img width="1357" height="596" alt="image" src="https://github.com/user-attachments/assets/f2e5235f-db6c-4e13-b3ba-2edca27df0dc" />
+<hr>
+<h2>Output</h2>
+<img width="1357" height="596" alt="image" src="https://github.com/user-attachments/assets/6445b5d1-5195-44bd-9687-34e171adbe30" />
 
 
 <hr>
